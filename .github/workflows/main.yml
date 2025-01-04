@@ -1,3 +1,6 @@
 [![.github/workflows/main.yml]
 (https://github.com/NateCyphermax96/NateCyphermax96/actions/workflows/main.yml/badge.svg?branch=main&event=issues)
 ](https://github.com/NateCyphermax96/NateCyphermax96/actions/workflows/main.yml)
+control +shift + m to toggle the [tab] key moving focus. alternatively,use [esc] then [tab] to move to the next interactive element on the page.
+use [control + space] to trigger autocomplete in most situations} "help"
+.
